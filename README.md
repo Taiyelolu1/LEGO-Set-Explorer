@@ -20,7 +20,7 @@ The visualization was done using Power BI.
 
 You can view the snapshot to my visualization below: 
 
-![LEGO Set Explorer](file:///C:/Users/Taiyelolu/Downloads/LEGO%20Set-1.pdf)
+![LEGO Set Explorer](https://github.com/user-attachments/assets/a6b598bf-215d-496b-833b-24d50dbc8dc4)
 
 ### Key Insights
 1. The total number of LEGO Sets were 4,385; having average pieces of 411 and an average price of $45.
